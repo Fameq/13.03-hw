@@ -31,9 +31,9 @@
 
 *В качестве ответа пришлите события, которые попали в логи Suricata и Fail2Ban, прокомментируйте результат.*
 
-![Suricata](https://github.com/Fameq/13.02-hw/blob/master/img/suricata_log_scan_sT.png)
-![Suricata](https://github.com/Fameq/13.02-hw/blob/master/img/suricata_log_scan_sS.png)
-![Suricata](https://github.com/Fameq/13.02-hw/blob/master/img/suricata_log_scan_sV.png)
+![Suricata](https://github.com/Fameq/13.03-hw/blob/master/img/suricata_log_scan_sT.png)
+![Suricata](https://github.com/Fameq/13.03-hw/blob/master/img/suricata_log_scan_sS.png)
+![Suricata](https://github.com/Fameq/13.03-hw/blob/master/img/suricata_log_scan_sV.png)
 
 	При сканировании -sT в логах Suricata видно что есть попытки подключение в различным бд
 	
@@ -66,8 +66,8 @@
 
 *В качестве ответа пришлите события, которые попали в логи Suricata и Fail2Ban, прокомментируйте результат.*
 
-![Fail2ban](https://github.com/Fameq/13.02-hw/blob/master/img/hydra_fail2ban_auth.png)
-![Fail2ban](https://github.com/Fameq/13.02-hw/blob/master/img/hydra_fail2ban_log.png)
-![Fail2ban](https://github.com/Fameq/13.02-hw/blob/master/img/hydra_suricata.png)
+![Fail2ban](https://github.com/Fameq/13.03-hw/blob/master/img/hydra_fail2ban_auth.png)
+![Fail2ban](https://github.com/Fameq/13.03-hw/blob/master/img/hydra_fail2ban_log.png)
+![Fail2ban](https://github.com/Fameq/13.03-hw/blob/master/img/hydra_suricata.png)
 
 	В логах видно что после нескольких неудачных попыток подключиться по ssh ip-адресс был заблокирован
